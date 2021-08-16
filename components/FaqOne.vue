@@ -19,7 +19,7 @@
         </div>
         <div class="layer-shape">
             <div class="layer-shape-one"  data-aos="fade-up" data-aos-duration="1000">
-                <img class="img-shape1 tilt-animation" src="/images/photos/faq1.jpg" alt="Virtuf-Image">
+                <img class="img-shape1 tilt-animation" src="/images/photos/faq1.png" alt="Virtuf-Image">
                 <img class="img-shape2" src="/images/shape/1.png" alt="Virtuf-Image">
                 <img class="img-shape3" src="/images/shape/2.png" alt="Virtuf-Image">
             </div>

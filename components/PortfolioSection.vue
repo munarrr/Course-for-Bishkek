@@ -8,7 +8,7 @@
                             <img src="/images/shape/line1.png" alt="Virtuf-HasTech">
                             <h5>Portfolio</h5>
                         </div>
-                        <h2 class="title">We Have Leadership Strong Experience In <span>Business.</span></h2>
+                        <h2 class="title">ТОП-6 ПРОБЛЕМ, КОТОРЫЕ МЫ ПОМОГАЕМ РЕШИТЬ <span>НАШИМ КЛИЕНТАМ.</span></h2>
                     </div>
                 </div>
                 <div class="col-sm-4 text-right">
@@ -24,7 +24,7 @@
                             <swiper :options="portfolioSliderContainer">
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
-                                        <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/s2.jpg')` }">
+                                        <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/shape.png')` }">
                                             <n-link to="/portfolio-details"></n-link>
                                         </div>
                                         <div class="portfolio-info">

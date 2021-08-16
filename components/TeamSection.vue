@@ -4,13 +4,13 @@
             <div class="row">
                 <div class="col-lg-8 m-auto">
                     <div class="section-title text-center" data-aos="fade-up" data-aos-duration="1000">
-                        <h2 class="title">We’ve Awesome Team</h2>
+                        <h2 class="title">НАШИ ПРЕПОДАВАТЕЛИ АНГЛИЙСКОГО ЯЗЫКА В ШКОЛЕ INTERNATIONAL LANGUAGE HOUSE</h2>
                         <div class="separator-line mt-14">
                             <img class="me-1" src="/images/shape/line-s2.png" alt="Images">
                             <img src="/images/shape/line-s1.png" alt="Images">
                         </div>
                         <div class="desc">
-                            <p class="mt-21">Lorem Ipsum is simply dummy text of the printing and typesetting industry has been <br>the industry's standard dummy text ever since the printer took</p>
+                            <p class="mt-21">Дружный коллектив энтузиастов, преданных своему делу</p>
                         </div>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                             <swiper :options="swiperOptions">
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
-                                        <img src="/images/team/1.jpg" alt="Image">
+                                        <img src="/images/team/team.png" alt="Image">
                                     </div>
                                     <div class="content">
                                         <div class="member-info">
@@ -52,7 +52,7 @@
                                 </div>
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
-                                        <img src="/images/team/2.jpg" alt="Image">
+                                        <img src="/images/team/team.png" alt="Image">
                                     </div>
                                     <div class="content">
                                         <div class="member-info">
@@ -82,7 +82,7 @@
                                 </div>
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
-                                        <img src="/images/team/3.jpg" alt="Image">
+                                        <img src="/images/team/team.png" alt="Image">
                                     </div>
                                     <div class="content">
                                         <div class="member-info">

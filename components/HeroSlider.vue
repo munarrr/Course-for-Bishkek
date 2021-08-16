@@ -19,7 +19,7 @@
                             </div>
                             <div class="layer-style">
                                 <div class="thumb">
-                                    <img src="/images/slider/1.jpg" alt="Images">
+                                    <img src="/images/slider/slide1.png" alt="Images">
                                 </div>
                                 <div class="success-rate"><div class="content">98% <span>Successful Project</span></div></div>
                                 <div class="trusted-clients-content">

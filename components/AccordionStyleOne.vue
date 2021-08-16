@@ -7,13 +7,13 @@
                         <i class="icon icofont-plus"></i>
                         <i class="icon icofont-minus"></i>
                     </span>
-                    How to get busineses services?
+                    Логика вместо сотен правил
                 </b-button>
             </b-card-header>
             <b-collapse id="accordion-1" visible accordion="my-accordion">
                 <b-card-body>
                     <b-card-text>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry has industry's standard dummy text ever since the 1500s, when an unknown printer took of type and scrambled it to make a type specimen book. It has survived not only centuries, but also the leap into electronic.
+                        Вся грамматика дается в виде компактной и логичной системы. Вместо сотен правил – 4 логические модели, позволяющие строить ЛЮБОЕ предложение на английском. Понятные схемы и модели для легкого усвоения материала.
                     </b-card-text>
                 </b-card-body>
             </b-collapse>
@@ -25,13 +25,13 @@
                         <i class="icon icofont-plus"></i>
                         <i class="icon icofont-minus"></i>
                     </span>
-                    How can start digital marketing business?
+                   Запоминание через ассоциации и контекст
                 </b-button>
             </b-card-header>
             <b-collapse id="accordion-2" visible accordion="my-accordion">
                 <b-card-body>
                     <b-card-text>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry has industry's standard dummy text ever since the 1500s, when an unknown printer took of type and scrambled it to make a type specimen book. It has survived not only centuries, but also the leap into electronic.
+                        Мы предлагаем современную технологию запоминания лексики через контекст или прямые ассоциации, минуя перевод на русский. Благодаря этому методу преподавания слово оказывается связано с конкретным образом, и так его намного проще выучить.
                     </b-card-text>
                 </b-card-body>
             </b-collapse>
@@ -43,13 +43,13 @@
                         <i class="icon icofont-plus"></i>
                         <i class="icon icofont-minus"></i>
                     </span>
-                    How to get easily client from online marketplace?
+                   Поддержка памяти в течение всего курса
                 </b-button>
             </b-card-header>
             <b-collapse id="accordion-3" visible accordion="my-accordion">
                 <b-card-body>
                     <b-card-text>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry has industry's standard dummy text ever since the 1500s, when an unknown printer took of type and scrambled it to make a type specimen book. It has survived not only centuries, but also the leap into electronic.
+                        Система интервальных повторений помогает сохранить знания в активной долговременной памяти. График повторений строится с учетом психологических особенностей механизмов запоминания, поэтому вы запоминаете материал надолго.
                     </b-card-text>
                 </b-card-body>
             </b-collapse>
@@ -61,14 +61,13 @@
                         <i class="icon icofont-plus"></i>
                         <i class="icon icofont-minus"></i>
                     </span>
-                    How can i payment your product?
+                   Развитие коммуникативных навыков с помощью игр и тренингов
                 </b-button>
             </b-card-header>
             <b-collapse id="accordion-4" visible accordion="my-accordion">
                 <b-card-body>
                     <b-card-text>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry has industry's standard dummy text ever since the 1500s, when an unknown printer took of type and scrambled it to make a type specimen book. It has survived not only centuries, but also the leap into electronic.
-                    </b-card-text>
+Справиться с языковым барьером помогут более 1 000 разнообразных игр и тренингов. Постоянная практика научит вас хорошо понимать устную речь и уверенно говорить самим, а также подготовит к реальным ситуациям общения.                    </b-card-text>
                 </b-card-body>
             </b-collapse>
         </b-card>

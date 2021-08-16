@@ -5,8 +5,8 @@
                 <div class="col-6 col-sm-4 col-lg-3">
                     <div class="header-logo-area">
                         <n-link to="/">
-                            <img class="logo-main" src="/images/logo/logo.png" alt="Logo" />
-                            <img class="logo-light" src="/images/logo/logo-light.png" alt="Logo" />
+                            <img class="logo-main" src="/images/logo/slack.png" alt="Logo" />
+                            <img class="logo-light" src="/images/logo/slack.png" alt="Logo" />
                         </n-link>
                     </div>
                 </div>

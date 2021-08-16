@@ -5,7 +5,7 @@
                 <div class="col-lg-5 md-text-center">
                     <div class="layer-style" data-aos="fade-up" data-aos-duration="1000">
                         <div class="thumb tilt-animation">
-                            <img src="/images/about/01.jpg" alt="Images">
+                            <img src="/images/about/slide2.png" alt="Images">
                         </div>
                         <div class="shape-style1">
                             <img src="/images/shape/circle-line1.png" alt="Images">
